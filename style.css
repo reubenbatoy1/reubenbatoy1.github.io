@@ -299,4 +299,13 @@
     font-stretch: normal;
     text-decoration: underline;
   }
-  
+  .motto {
+  font-size: 15px;
+  position: absolute;
+  color: rgb(31, 77, 107);
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-style:italic;
+  }
