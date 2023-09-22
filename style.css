@@ -577,8 +577,9 @@
 
 .portfolio-devchapter .sssss {
     position: absolute;
-    width: 378px;
-    height: 286px;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
     top: 1px;
     left: 1px;
     transform: rotate(0.2deg);
